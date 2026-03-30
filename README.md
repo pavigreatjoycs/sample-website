@@ -4,3 +4,7 @@ A ssample website
 This is just another line in the readme file that I have added
 
 Updates made on main on GitHub before rebase
+
+##Purpose
+
+This is just a readme file
