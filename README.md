@@ -4,3 +4,9 @@ A ssample website
 This is just another line in the readme file that I have added
 
 Updates made on main on GitHub before rebase
+
+##Repository Purpose
+
+This will be a change that conflicts
+with whatever is on t he remote side.
+This was edited locally.
